@@ -1,1 +1,3 @@
-# practice2
+pratice#2:
+list 1
+list 2
